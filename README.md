@@ -11,10 +11,12 @@ A real-time analog clock built with Vue.js and TypeScript. This project displays
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Real-Time-Clock.git
-   cd Real-Time-Clock
-   ```
+
+```bash
+git clone https://github.com/your-username/Real-Time-Clock.git
+cd Real-Time-Clock
+```
+
 2. Install dependencies:
 
 ```bash
