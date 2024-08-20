@@ -13,7 +13,7 @@ A real-time analog clock built with Vue.js and TypeScript. This project displays
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Real-Time-Clock.git
+git clone https://github.com/mio-dokuhaki/Real-Time-Clock.git
 cd Real-Time-Clock
 ```
 
